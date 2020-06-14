@@ -1,16 +1,16 @@
-# serverless-plugin-dynamodb-offline
+# serverless-offline-dynamodb
 
-![David](https://img.shields.io/david/YOU54F/serverless-plugin-dynamodb-offline.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YOU54F/serverless-plugin-dynamodb-offline.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOU54F/serverless-plugin-dynamodb-offline.svg)
-![npm](https://img.shields.io/npm/dw/serverless-plugin-dynamodb-offline.svg)
-![npm](https://img.shields.io/npm/dm/serverless-plugin-dynamodb-offline.svg)
-![npm](https://img.shields.io/npm/dy/serverless-plugin-dynamodb-offline.svg)
-![npm](https://img.shields.io/npm/dt/serverless-plugin-dynamodb-offline.svg)
-![NPM](https://img.shields.io/npm/l/serverless-plugin-dynamodb-offline.svg)
-![npm](https://img.shields.io/npm/v/serverless-plugin-dynamodb-offline.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOU54F/serverless-plugin-dynamodb-offline.svg)
-![npm collaborators](https://img.shields.io/npm/collaborators/serverless-plugin-dynamodb-offline.svg)
+![David](https://img.shields.io/david/YOU54F/serverless-offline-dynamodb.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/YOU54F/serverless-offline-dynamodb.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOU54F/serverless-offline-dynamodb.svg)
+![npm](https://img.shields.io/npm/dw/serverless-offline-dynamodb.svg)
+![npm](https://img.shields.io/npm/dm/serverless-offline-dynamodb.svg)
+![npm](https://img.shields.io/npm/dy/serverless-offline-dynamodb.svg)
+![npm](https://img.shields.io/npm/dt/serverless-offline-dynamodb.svg)
+![NPM](https://img.shields.io/npm/l/serverless-offline-dynamodb.svg)
+![npm](https://img.shields.io/npm/v/serverless-offline-dynamodb.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOU54F/serverless-offline-dynamodb.svg)
+![npm collaborators](https://img.shields.io/npm/collaborators/serverless-offline-dynamodb.svg)
 
 Serverless Framework Plugin to Work with AWS DynamoDB Offline
 
@@ -19,14 +19,14 @@ Serverless Framework Plugin to Work with AWS DynamoDB Offline
 To install with npm, run this in your service directory:
 
 ```bash
-npm install --save-dev serverless-plugin-dynamodb-offline
+npm install --save-dev serverless-offline-dynamodb
 ```
 
 Then add this to your `serverless.yml`
 
 ```yml
 plugins:
-  - serverless-plugin-dynamodb-offline
+  - serverless-offline-dynamodb
 ```
 
 > Important:
