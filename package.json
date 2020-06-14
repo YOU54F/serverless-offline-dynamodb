@@ -1,6 +1,6 @@
 {
   "name": "serverless-offline-dynamodb",
-  "version": "0.0.5-development",
+  "version": "0.0.7-development",
   "description": "Serverless Framework Plugin to Work with AWS DynamoDB Offline",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

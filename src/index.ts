@@ -283,7 +283,7 @@ class ServerlessDynamoDBOfflinePlugin {
   };
 
   private startDynamoDB = async () => {
-    if (this.dynamoDBConfig.start.noStart || !this.shouldExecute) {
+    if (this.dynamoDBConfig.start.noStart || !this.shouldExecute()) {
       this.serverless.cli.log(
         "DynamoDB Offline - noStart or non-permitted stage",
       );
